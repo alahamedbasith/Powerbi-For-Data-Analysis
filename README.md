@@ -1,9 +1,5 @@
 # Powerbi_For_Data_Analysis
 
-Here's the updated tutorial including **Adding Measures and Tables** and **Conditional Formatting**:
-
----
-
 **Power BI Beginner Tutorial**
 
 1. **Power BI Desktop**
